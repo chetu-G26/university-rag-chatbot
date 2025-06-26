@@ -42,12 +42,66 @@ This chatbot system automates student/faculty Q&A using a modern NLP pipeline:
 
 # Dataset
 
-📄 Source: University of New Haven website sitemap
+📄 Source: University of New Haven website  
+ https://university.edu/sitemap.xml
 
 📑 Raw: HTML pages with course & faculty info
 
 🔎 Cleaned: 12,000+ chunked text entries (500 tokens each, 100-token overlap)
 
 💾 Stored: In ChromaDB with cosine similarity index
+
+
+# Results 
+
+| Metric                 | Value   |
+| ---------------------- | ------- |
+| Retrieval Time         | \~30 ms |
+| LLM Response Time      | \~2 sec |
+| Accuracy (BLEU, ROUGE) | 85%     |
+| Queries Tested         | 100+    |
+
+# setup instructions 
+
+# Clone repo
+git clone https://github.com/chetanabalagam/university-rag-chatbot.git
+cd university-rag-chatbot
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run FastAPI app
+uvicorn app.main:app --reload
+
+#  Trigger Airflow DAG
+airflow dags trigger chatbot_update_pipeline
+
+# Deployment
+This project is deployed on a GPU-enabled AWS EC2 instance for speed and scalability.
+Setup instructions are in: deployment/ec2_setup.md
+
+# Future Enhancements
+🌐 Multilingual support
+
+🔄 User feedback learning
+
+🧑‍🏫 Role-based access (student/faculty)
+
+🏫 Port to other universities with config update
+
+#  References
+
+Ollama LLM
+
+ChromaDB Docs
+
+Apache Airflow
+
+FastAPI
+
+Original GitHub Repo
+
+
+
 
 
