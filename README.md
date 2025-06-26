@@ -61,19 +61,19 @@ This chatbot system automates student/faculty Q&A using a modern NLP pipeline:
 | Accuracy (BLEU, ROUGE) | 85%     |
 | Queries Tested         | 100+    |
 
-# setup instructions 
+# Setup instructions 
 
-# Clone repo
+1)Clone repo
 git clone https://github.com/chetanabalagam/university-rag-chatbot.git
 cd university-rag-chatbot
 
-# Install dependencies
+2)Install dependencies
 pip install -r requirements.txt
 
-# Run FastAPI app
+3) Run FastAPI app
 uvicorn app.main:app --reload
 
-#  Trigger Airflow DAG
+4) Trigger Airflow DAG
 airflow dags trigger chatbot_update_pipeline
 
 # Deployment
