@@ -25,24 +25,50 @@ This chatbot system automates student/faculty Q&A using a modern NLP pipeline:
 - ✅ Deployable across institutions with simple config
 - ✅ Hosted on GPU-enabled AWS EC2 for optimal performance
 
----
+🔍 Smart Web Scraper
 
-## 🧱 Architecture
+Automatically scrapes university content using sitemap-based filtering, ensuring relevant and structured data extraction.
 
-```plaintext
-         +-------------+ 
-         |   User      |
-         +------+------+
-                |
-          [FastAPI App]
-                |
-    +-----------v-----------+
-    |  Retrieve top chunks  |
-    |   from ChromaDB DB    |
-    +-----------+-----------+
-                |
-          [Ollama LLM API]
-                |
-         +------v------+
-         |  Final Answer |
-         +-------------+
+🧠 Efficient Embedding with ChromaDB
+
+Uses all-MiniLM-L6-v2 for document embeddings.
+
+Enables powerful semantic understanding of content.
+
+💬 Interactive Chat Interface
+
+A simple and intuitive web-based chatbot for querying embedded documents.
+
+Fast, responsive, and ideal for real-time Q&A.
+
+🔍 Vector Search with ChromaDB
+
+Implements high-speed vector search for accurate information retrieval.
+
+Optimized for semantic relevance and low-latency response.
+
+💬 LLM-Powered Chat
+
+Integrated with Ollama’s Mistral 7B, delivering fast and high-quality answers with natural language understanding.
+
+🧩 Smart Chunking Strategy
+
+Inputs are split into chunks of 500 tokens with 100-token overlap for precise context-aware search results.
+
+⚙️ Automated Monthly Refresh with Airflow
+
+Airflow DAG automates monthly data refresh to keep the knowledge base up to date with new content.
+
+🎛️ Zero-Code Configuration
+
+Fully customizable through config.yaml.
+
+No code modifications needed to update URLs, chunk size, embedding model, etc.
+
+🔴 Real-time Learning
+
+Continuously updates vector store with newly extracted documents, adapting to fresh content automatically.
+
+☁️ Cloud Deployment Ready
+
+Easily deployable on cloud platforms like AWS, GCP, Azure, or Render.
