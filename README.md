@@ -3,6 +3,7 @@ A Production-ready Retrieval-Augmented Generation (RAG) chatbot developed as a c
 
 > 🚀 Built with FastAPI, Ollama Mistral 7B, ChromaDB, Apache Airflow, and deployed on AWS EC2.
 
+Chatbot link: http://44.217.147.240:8000 
 
 ## 📌 Project Overview
 
