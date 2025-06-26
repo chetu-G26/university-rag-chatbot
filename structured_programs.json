@@ -1,0 +1,3304 @@
+[
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 51,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENGR 7701"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BANL 6693"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MGMT 6625"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MGMT 6637"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6617"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6619"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "LSTD 6620"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6604"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6620"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CJST 6612"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6611"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MGMT 6815"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": 9,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NSEC 6604"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6600"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 3,
+            "electives": 9,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CHEM 6710"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6615"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "EMGT 6601"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 3,
+            "electives": 9,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CHEM 6710"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PUBH 6615"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Finance Certificate Advisor: Leah A. Hartman, Instructor",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "FINC 6601"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6605"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "FORS 6600"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6651"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6655"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6616"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Geographical Information Systems Certificate Advisor: Coordinator: Matthew Fulda, Practitioner-in-Residence",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENVS 6640"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PUBH 6660"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BANL 6500"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PUBH 6620"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "HCAD 6600"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "HCAD 6600"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6635"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "HCAD 6600"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6654"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "HCAD 6600"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ELEC 6602"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NPFT 6100"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "EGRM 6604"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Long-Term Health Care Certificate Advisor: David Lane",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "HCAD 6603"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MKTG 6641"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NSEC 6601"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 6,
+            "electives": 6,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PADM 6663"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CHEM 6655"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6643"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "EGRM 6609"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "DSCI 6001"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6639"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "SMGT 6610"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6622"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "EGRM 6609"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INDE 6630"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6651"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6601"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NSEC 6601"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6626"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6500"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MATH 6610"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Industrial Engineering Dual Degree",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MATH 6610"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PADM 6690"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BANL 6500"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Business Analytics",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 21,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "BANL 6900",
+            "course_name": "Business Analytics Capstoneor (with permission of Program Coordinator)BANL 6693 - Business Analytics InternshipGeneral Concentration (9 credits)Select three courses from the following:ACCT 6651 - Accounting AnalyticsBANL 6320 - Supervised Machine LearningBANL 6420 - Unsupervised Machine LearningBANL 6440 - Survey MethodsBANL 6500 - Global Supply Chain ManagementBANL 6525 - Global Procurement ManagementBANL 6550 - Managing Quality in the Supply ChainBANL 6605 - Applied EconometricsBANL 6614 - Decisions in Operations ManagementBANL 6630 - Global Logistics and Distribution ManagementBANL 6650 - Hospitality and Service AnalyticsBANL 6670 - Special TopicsBANL 6695 - Independent StudyBANL 6710 - Digital Story Telling with TableauBUSA 6598 - Business InternshipECON 6644 - Managing in a Global EconomyECON 6670 - Selected TopicsHTMG 6610 - International TourismHTMG 6620 - Tourism, Resort, and Event ManagementHTMG 6635 - Special Events Management in Hospitality and TourismHTMG 6640 - Global Sustainable Tourism ManagementHTMG 6680 - Resort Operations and ManagementINTB 6643 - International BusinessMGMT 6625 - Knowledge ManagementMGMT 6663 - Leadership and Team BuildingMKTG 6610 - Marketing Analysis and Customer ValueMKTG 6627 - Database MarketingMKTG 6629 - Social Media MarketingMKTG 6631 - Digital Marketing StrategyMKTG 6639 - Marketing Research and Information SystemsMKTG 6640 - Marketing AnalyticsQANL 6675 - Multivariate AnalysisSMGT 6625 - Sport Business AnalyticsOr any course in an existing M.S. Business Analytics concentration (with the required prerequisite courses) Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BANL 6100"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Business Analytics",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 21,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "BANL 6900",
+            "course_name": "Business Analytics Capstoneor (with permission of Program Coordinator)BANL 6693 - Business Analytics InternshipGlobal Supply Chain Analytics Concentration (9 credits)BANL 6500 - Global Supply Chain ManagementBANL 6525 - Global Procurement ManagementBANL 6550 - Managing Quality in the Supply ChainBANL 6614 - Decisions in Operations ManagementBANL 6630 - Global Logistics and Distribution ManagementBUSA 6598 - Business Internship Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BANL 6100"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 45,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "HLTH 7701"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Business Analytics",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 21,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "BANL 6900",
+            "course_name": "Business Analytics Capstoneor (with permission of Program Coordinator)BANL 6693 - Business Analytics InternshipHospitality and Service Analytics Concentration (9 credits)BANL 6650 - Hospitality and Service AnalyticsPlus two courses from the following:HTMG 6610 - International TourismHTMG 6620 - Tourism, Resort, and Event ManagementHTMG 6635 - Special Events Management in Hospitality and TourismHTMG 6640 - Global Sustainable Tourism ManagementHTMG 6680 - Resort Operations and ManagementBUSA 6598 - Business Internship Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BANL 6100"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Business Analytics",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 21,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "BANL 6900",
+            "course_name": "Business Analytics Capstoneor (with permission of Program Coordinator)BANL 6693 - Business Analytics InternshipMarketing Analytics Concentration (9 credits)MKTG 6610 - Marketing Analysis and Customer ValueMKTG 6640 - Marketing AnalyticsPlus one course from the following:BANL 6320 - Supervised Machine LearningBANL 6420 - Unsupervised Machine LearningBANL 6614 - Decisions in Operations ManagementBANL 6440 - Survey MethodsBUSA 6598 - Business InternshipMKTG 6627 - Database MarketingMKTG 6629 - Social Media MarketingMKTG 6631 - Digital Marketing StrategyMKTG 6639 - Marketing Research and Information SystemsQANL 6675 - Multivariate Analysis Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BANL 6100"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Cellular and Molecular Biology",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CMBI 6690"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Chemical Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php.",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CHME 6611"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Chemistry",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 18,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CHEM 6607"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Civil Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CIVL 6628"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Clinical Mental Health Counseling",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6609"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Clinical Mental Health Counseling",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6609"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Clinical Mental Health Counseling",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6609"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Community Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6605"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Community Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6605"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Community Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6605"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Community Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PSYC 6605"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Computer Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Construction Engineering and Management",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 9,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CIVL 6660"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Criminal Justice",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CJST 6615"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Cyber Risk Management",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 30,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "MGMT 6647",
+            "course_name": "Network Security and Operations Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MGMT 6663"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Cyber Threat Intelligence and Financial Crimes Investigations",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 21,
+            "electives": 6,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6600"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Cybersecurity and Networks",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 9,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": true,
+            "minimum_degree": "Bachelor's",
+            "prerequisites": [
+                "CSCI 6604"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Data Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 21,
+            "electives": null,
+            "capstone": 3
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "DSCI 6010",
+            "course_name": "Data Science InternshiporDSCI 6051 - Data Science Capstone ProjectSpecial Topics and ElectivesChoose two courses including at least one from Special Topics. Students can take either two Special Topics or one Special Topics and one Elective.Special TopicsCSCI 6680 - Computer VisionDSCI 6006 - Leadership and EntrepreneurismDSCI 6015 - AI and CybersecurityDSCI 6653 - Bayesian Data AnalysisELEC 6101 - Autonomous Vehicles I: Modeling, Perception, and State EstimationELEC 6102 - Autonomous Vehicles II: Artificial Intelligence-enabled Decision-makingAny new courses introduced by the program as special topics with course numbers within the range of DSCI 6670 and 6679.ElectivesStudents taking one Special Topics course must select an elective and vice versa.BANL 6310 - Data Visualization and CommunicationBANL 6600 - Power BI and DashboardingCMBI 6620 - BioinformaticsCSCI 6624 - Advanced Database SystemsCSCI 6627 - Distributed Database SystemsCSCI 6634 - Cryptography and Data SecurityCSCI 6638 - Small-Scale Digital Forensic ScienceCSCI 6646 - Introduction to Computer SecurityECON 6635 - Business ForecastingEGRM 6611 - Decision Making Under UncertaintyINDE 6620 - Optimization and ApplicationsINDE 6645 - Data AnalyticsINDE 6647 - Supply Chain Analytics and ResiliencePUBH 6680 - Health AnalyticsRequired Courses (3 credits) - may be waivedStudents without sufficient skills in Python programming will be required to take the following course. This determination is made during the admissions process, and students will be informed at the time of admission if this course is required or waived. Students who choose to attend the university in this program agree to take the course if shown as required:DSCI 6602 - Introduction to Programming for Data ScienceCourse PlanA recommended course plan (30 credit hours) for students who are NOT required to take DSCI 6602 - Introduction to Programming for Data Science: First Semester DSCI 6001 - Math for Data Scientists DSCI 6002 - Intro to Data Science DSCI 6612 - Intro to Artificial Intelligence Second Semester DSCI 6003 - Machine Learning DSCI 6007 - Distributed & Scalable Data Engineering Elective/Special Topic Course Third Semester DSCI 6004 - Natural Language Processing DSCI 6011 - Deep Learning Elective/Special Topic Course Fourth Semester DSCI 6010 - Data Science Internship or Capstone Project A recommended course plan (33 credit hours) for students who are required to take DSCI 6602 - Introduction to Programming for Data Science: First Semester DSCI 6602 - Introduction to Programming for Data Science DSCI 6001 - Math for Data Scientists DSCI 6002 - Intro to Data Science Second Semester DSCI 6003 - Machine Learning DSCI 6612 - Intro to Artificial Intelligence DSCI 6007 - Distributed & Scalable Data Engineering Third Semester DSCI 6004 - Natural Language Processing DSCI 6011 - Deep Learning Elective/Special Topic Course Fourth Semester DSCI 6010 - Data Science Internship or Capstone Project Elective/Special Topic Course Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "DSCI 6001"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Accounting",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "BANL 6100",
+            "course_name": "Business AnalyticsBANL 6310 - Data Visualization and CommunicationBANL 6430 - Database Management for Business AnalyticsACCT 6651 - Accounting Analytics Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6620"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Digital Forensic Investigations",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6624"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Electrical Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Bachelor's",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Emergency Management",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "EMGT 6601"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Engineering and Operations Management",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": 9,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "EGRM 6609"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Environmental Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": 18,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CIVL 6601"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Environmental Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ENVS 6692",
+            "course_name": "Internship Non-Thesis Track: ENVS 6690 - Research Project Thesis Track: ENVS 6698 and ENVS 6699 - Thesis I and Thesis II Environmental Ecology Required CoursesCHEM 6601 - Environmental Chemistry Select two of the following three courses:ENVS 6603 - Wetlands Ecology with LaboratoryENVS 6605 - Marine and Estuarine Ecology with LaboratoryENVS 6608 - Landscape EcologyEnvironmental Ecology Elective CoursesENVS 6320 - Marine PollutionENVS 6331 - Marine Conservation and RestorationENVS 6602 - Environmental Effects of PollutantsENVS 6607 - Environmental Reports and Impact AssessmentENVS 6617 - Subsurface AssessmentENVS 6634 - Environmental Education Instructor ClinicENVS 6640 - Introduction to Geographical Information SystemsENVS 6653 - Environmental MicrobiologyENVS 6695 - Independent Study ICIVL 6611 - Air Pollution FundamentalsENGL 6659 - Writing and Speaking for ProfessionalsINVS 6661 - Contemporary Topics in Wildlife Crimes InvestigationsINVS 6662 - Contemporary Topics in Environmental Crimes Investigations Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENVS 6698"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Environmental Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ENVS 6692",
+            "course_name": "Internship Non-Thesis Track: ENVS 6690 - Research Project Thesis Track: ENVS 6698 and ENVS 6699 - Thesis I and Thesis II Environmental Geoscience Required CoursesENVS 6603 - Wetlands Ecology with LaboratoryENVS 6617 - Subsurface AssessmentCIVL 6603 - Contaminant Fate and Transport in the EnvironmentCIVL 6615 - Groundwater HydrologyEnvironmental Geoscience Elective CoursesENVS 6607 - Environmental Reports and Impact AssessmentENVS 6608 - Landscape EcologyENVS 6632 - Field Geology of the NortheastENVS 6633 - Selected Topics in Field GeologyENVS 6634 - Environmental Education Instructor ClinicENGL 6659 - Writing and Speaking for ProfessionalsENVS 6695 - Independent Study ICHEM 6601 - Environmental Chemistry Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENVS 6698"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Environmental Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ENVS 6692",
+            "course_name": "Internship Non-Thesis Track: ENVS 6690 - Research Project Thesis Track: ENVS 6698 and ENVS 6699 - Thesis I and Thesis II Environmental Health and Management Required CoursesENVS 6610 - Environmental HealthCHEM 6601 - Environmental ChemistryPUBH 6615 - Principles of Epidemiology Select one of the following two courses:ENVS 6602 - Environmental Effects of PollutantsENVS 6653 - Environmental MicrobiologyEnvironmental Health and Management Elective CoursesCIVL 6611 - Air Pollution FundamentalsENVS 6607 - Environmental Reports and Impact AssessmentENVS 6640 - Introduction to Geographical Information SystemsFORS 6662 - Forensic ToxicologyPUBH 6625 - Biostatistical Applications in Public HealthENGL 6659 - Writing and Speaking for ProfessionalsENVS 6695 - Independent Study I Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENVS 6698"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Environmental Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ENVS 6692",
+            "course_name": "Internship Non-Thesis Track: ENVS 6690 - Research Project Thesis Track: ENVS 6698 and ENVS 6699 - Thesis I and Thesis II General Elective CoursesPossible elective courses for the General concentration:ENVS 6200 - Advanced OceanographyENVS 6201 - Advanced Marine Organismal BiologyENVS 6310 - Algal Research MethodsENVS 6320 - Marine PollutionENVS 6331 - Marine Conservation and RestorationENVS 6400 - Tropical Marine EcologyENVS 6440 - Aquaculture IENVS 6444 - Aquaculture IIENVS 6602 - Environmental Effects of PollutantsENVS 6603 - Wetlands Ecology with LaboratoryENVS 6604 - Ecology of Inland WatersENVS 6605 - Marine and Estuarine Ecology with LaboratoryENVS 6607 - Environmental Reports and Impact AssessmentENVS 6608 - Landscape EcologyENVS 6610 - Environmental HealthENVS 6616 - Human Health and Environmental Risk AssessmentENVS 6617 - Subsurface AssessmentENVS 6632 - Field Geology of the NortheastENVS 6633 - Selected Topics in Field GeologyENVS 6634 - Environmental Education Instructor ClinicENVS 6640 - Introduction to Geographical Information SystemsENVS 6641 - Geographical Information System Techniques and Applications IENVS 6642 - Geographical Information System Techniques and Applications IIENVS 6643 - Advanced Applications of GISENVS 6653 - Environmental MicrobiologyENVS 6695 - Independent Study IENGL 6659 - Writing and Speaking for Professionals Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENVS 6698"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Environmental Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ENVS 6692",
+            "course_name": "Internship Non-Thesis Track: ENVS 6690 - Research Project Thesis Track: ENVS 6698 and ENVS 6699 - Thesis I and Thesis II Geographical Information Systems and Applications Required CoursesENVS 6640 - Introduction to Geographical Information SystemsENVS 6641 - Geographical Information System Techniques and Applications IENVS 6642 - Geographical Information System Techniques and Applications IIENVS 6643 - Advanced Applications of GISGeographical Information Systems and Applications Elective CoursesENVS 6331 - Marine Conservation and RestorationENVS 6603 - Wetlands Ecology with LaboratoryENVS 6605 - Marine and Estuarine Ecology with LaboratoryENVS 6607 - Environmental Reports and Impact AssessmentENVS 6608 - Landscape EcologyENVS 6617 - Subsurface AssessmentCIVL 6681 - Sustainable Urban PlanningENGL 6659 - Writing and Speaking for ProfessionalsENVS 6695 - Independent Study I Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENVS 6698"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Accounting",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ACCT 6636",
+            "course_name": "Analysis of Federal Income Taxation IIACCT 6637 - International Accounting and TaxationACCT 6641 - Accounting Information SystemsACCT 6661 - Managerial Accounting Seminar Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6620"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Environmental Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ENVS 6692",
+            "course_name": "Internship Non-Thesis Track: ENVS 6690 - Research Project Thesis Track: ENVS 6698 and ENVS 6699 - Thesis I and Thesis II Marine Biology Required CoursesENVS 6200 - Advanced OceanographyENVS 6201 - Advanced Marine Organismal BiologyENVS 6320 - Marine PollutionENVS 6605 - Marine and Estuarine Ecology with LaboratoryMarine Biology Elective CoursesCHEM 6601 - Environmental ChemistryENVS 6310 - Algal Research MethodsENVS 6331 - Marine Conservation and RestorationENVS 6400 - Tropical Marine EcologyENVS 6440 - Aquaculture IENVS 6444 - Aquaculture IIENVS 6602 - Environmental Effects of PollutantsENVS 6603 - Wetlands Ecology with LaboratoryENVS 6604 - Ecology of Inland WatersENVS 6640 - Introduction to Geographical Information SystemsENVS 6641 - Geographical Information System Techniques and Applications IENVS 6642 - Geographical Information System Techniques and Applications IIENVS 6643 - Advanced Applications of GISMPMA 6609 - Marine Fisheries PolicyENVS 6695 - Independent Study IENGL 6659 - Writing and Speaking for Professionals Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ENVS 6698"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Esports Business",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "HCAD 6100",
+            "course_name": "Managing Health Considerations in EsportsSMGT 6613 - Sports Facility ManagementSMGT 6625 - Sport Business Analytics Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ESPT 6100"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Finance and Financial Analytics",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": 12,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "FINC 6602",
+            "course_name": "Corporate FinanceFINC 6613 - Derivative Market Analysis and Trading TechniquesFINC 6615 - Quantitative Trading StrategiesFINC 6616 - Analytical Applications in FinTechFINC 6617 - Mergers and AcquisitionsFINC 6630 - Corporate Financial Analysis and ApplicationsFINC 6632 - International Financial ManagementFINC 6640 - Real Estate AnalysisFINC 6641 - Regulation, Compliance, and Examination ProcessFINC 6645 - Equity Valuation ResearchFINC 6654 - Introduction to Financial Wealth ManagementFINC 6656 - Wealth ManagementFINC 6670 - Selected TopicsFINC 6681 - CFA Exam ReviewFINC 6690 - Research ProjectFINC 6691 - Masters Project in FinanceFINC 6693 - InternshipFINC 6695 - Independent Study IFINC 6698 - Thesis IBANL 6310 - Data Visualization and CommunicationBANL 6320 - Supervised Machine LearningBANL 6420 - Unsupervised Machine LearningBANL 6430 - Database Management for Business AnalyticsBANL 6500 - Global Supply Chain ManagementBANL 6550 - Managing Quality in the Supply ChainBANL 6600 - Power BI and DashboardingBANL 6670 - Special Topics Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6620"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Fire and Explosion Investigation",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 22,
+            "electives": 18,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "FIRE 6690"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Fire Protection Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php.",
+        "total_credits": 15,
+        "required_credits": {
+            "core_courses": 15,
+            "electives": 15,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "FIRE 6605"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Forensic Accounting",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 30,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6643"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Forensic Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 33,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "FORS 6620"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Forensic Technology",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "FORS 6612",
+            "course_name": "Principles of Forensic Science IFORS 6613 - Principles of Forensic Science IIFORS 6616 - Advanced Crime Scene InvestigationFORS 6617 - Forensic Expert TestimonyFORS 6618 - Forensic PhotographyFORS 6626 - Crime Scene ReconstructionFORS 6653 - Physical Analysis in Forensic ScienceFORS 6661 - Medicolegal Investigation and IdentificationFORS 6663 - Forensic Field TechnologyFORS 6664 - Forensic Field Technology LaboratoryFORS 6686 - Forensic Science Research Project IOrFORS 6688 - Forensic Science Internship ICJST 6608 - Law and EvidenceOrCJST 6651 - Criminal ProcedureCategory I Restricted Electives (select one): (3 credits)FORS 6642 - Wildlife ForensicsFORS 6651 - Forensic ArchaeologyFORS 6652 - Forensic AnthropologyFORS 6655 - Firearm Evidence AnalysisCategory II Restricted Elective (select one): (3 credits)FORS 6634 - Bloodstain Pattern AnalysisFORS 6670 - Selected TopicsFORS 6695 - Independent Study Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "FORS 6612"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Healthcare Fraud, Waste, and Abuse",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6635"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Accounting",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ACCT 6655",
+            "course_name": "Forensic and Investigative AccountingACCT 6656 - Valuation TheoryACCT 6662 - Fraud Examination Plus one of the following:LSTD 6640 - Litigation and Ethics for Forensic AccountingLSTD 6642 - Legal Issues in Litigation Support and Forensic AccountingLSTD 6643 - Fraud Schemes and the LawBUSA 6598 - Business InternshipINVS 6600 - Computer Crime: Legal Issues and Investigation ProceduresINVS 6601 - White Collar Crime AnalyticsINVS 6611 - Contemporary Topics in Cybercrime Investigations Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6620"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Human Resources",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Human Resources",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Human Resources",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Industrial Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INDE 6607"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Industrial/Organizational Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": 12,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ECON 6625"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Industrial/Organizational Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ECON 6625"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Industrial/Organizational Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ECON 6625"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Industrial/Organizational Psychology",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ECON 6625"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Industrial/Organizational Psychology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ECON 6625"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Information Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "DSGN 6602",
+            "course_name": "Utility and Usability: Human-Centered Design & PrototypingDSGN 6603 - User Interface and Interaction DesignDSGN 6606 - User Experience Design EthicsSelect two additional courses (6 credits total) from either the Business Analytics or Information Technology focus area, in consultation with your academic advisor.Business AnalyticsThe following three courses are strongly recommended for the Business Analytics focus area:BANL 6100 - Business AnalyticsBANL 6625 - Data Mining for Business IntelligenceAny DSGN 6000-level course not already required in the core Select two of the following courses:BANL 6320 - Supervised Machine LearningBANL 6420 - Unsupervised Machine LearningBANL 6430 - Database Management for Business AnalyticsBANL 6600 - Power BI and DashboardingBANL 6614 - Decisions in Operations ManagementECON 6635 - Business ForecastingSMGT 6625 - Sport Business AnalyticsInformation TechnologyThe following three courses are strongly recommended for the Information Technology focus area:CSCI 6622 - Database SystemsCSCI 6646 - Introduction to Computer SecurityCSCI 6651 - Introduction to Script Programming/Python Select two of the following courses:CSCI 6617 - Java ProgrammingCSCI 6620 - Data StructuresCSCI 6634 - Cryptography and Data SecurityCSCI 6642 - Computer Networks and Data CommunicationCSCI 6643 - Operating Systems Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INFS 6601"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Accounting",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 24,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ACCT 6601",
+            "course_name": "Fundamentals of Federal Income TaxationACCT 6602 - Taxation of Property TransactionsACCT 6604 - Taxation of Corporations and ShareholdersACCT 6605 - Partnership and Limited Liability Company Income Taxation Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6620"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Investigations",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 15,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6631"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Investigations",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 30,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6653"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Investigations",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": 12,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6603"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Marine Policy and Management",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "MPMA 6688",
+            "course_name": "Capstone ProjectPlus select one course from the following group of electives:MPMA 6681 - Independent StudyMPMA 6683 - Marine Policy and Management PracticumENVS 6634 - Environmental Education Instructor ClinicMPMA 6608 - Marine Coastal Resource ManagementMPMA 6609 - Marine Fisheries PolicyMPMA 6612 - Global ChangeMPMA 6610 - Human Ecology of Coastal SystemsENVS 6602 - Environmental Effects of PollutantsENVS 6640 - Introduction to Geographical Information SystemsENVS 6641 - Geographical Information System Techniques and Applications IMPMA 6635 - Environmental and Social Justice Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MPMA 6604"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Marine Policy and Management",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "MPMA 6688",
+            "course_name": "Capstone ProjectPlus select one course from the following group of electives:MPMA 6681 - Independent StudyMPMA 6683 - Marine Policy and Management PracticumMPMA 6612 - Global ChangeMPMA 6610 - Human Ecology of Coastal SystemsENVS 6641 - Geographical Information System Techniques and Applications IMPMA 6603 - Science CommunicationENGL 6659 - Writing and Speaking for ProfessionalsMPMA 6634 - Marine Environmental EducationENVS 6634 - Environmental Education Instructor ClinicENVS 6602 - Environmental Effects of PollutantsMPMA 6635 - Environmental and Social Justice Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MPMA 6604"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Mechanical Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 6,
+            "electives": 21,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MECH 6602"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Medical Laboratory Science",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "IMLSC 6652",
+            "course_name": "Capstone Project IIPlus six credits of restricted electives Six credits of PUBH or HCAD electives approved by advisor Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "MLSC 6600"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 National Security",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 18,
+            "electives": 6,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NSEC 6601"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 National Security",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 18,
+            "electives": 6,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NSEC 6601"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Anti-Money Laundering and Compliance Investigations",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": 36,
+        "required_credits": {
+            "core_courses": 27,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "INVS 6603"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 National Security",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 18,
+            "electives": 12,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NSEC 6601"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Nutrition Sciences",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 52,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ProjectHCAD 6603",
+            "course_name": "Financial Management of Healthcare Organizations Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "NUTR 6604"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Physician Associate",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 98,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PHAS 6000"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "FIRE 6631"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PADM 6663"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": []
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PADM 6649"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Public Health",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "orPUBH 6695",
+            "course_name": "Public Health Internship: Applied Practice ExperiencePlus three of the following (9 credits):PUBH 6630 - Environmental and Occupational HealthPUBH 6670 - Public Health NutritionPUBH 6671 - Health Education and PromotionPUBH 6673 - Public Health Emergency PreparednessPUBH 6674 - Comparative Health Systems and Global HealthPUBH 6680 - Health AnalyticsPUBH 6681 - Digital HealthPUBH 6682 - Healthcare InnovationPUBH 6684 - Health Data MiningENVS 6640 - Introduction to Geographical Information Systems Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "PUBH 6600"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Biomedical Engineering",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 18,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": true,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "BIOL 6605"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Speech-Language Pathology",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 63,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "SLPA 6900",
+            "course_name": "Clinical Practicum IVSLPA 6901 - Assessment and Intervention for Reading and Writing Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "SLPA 6600"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Sport Management",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php",
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "SMGT 6625",
+            "course_name": "Sport Business AnalyticsBANL 6100 - Business AnalyticsBANL 6310 - Data Visualization and CommunicationBANL 6320 - Supervised Machine LearningBANL 6420 - Unsupervised Machine LearningBANL 6430 - Database Management for Business Analytics Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "SMGT 6600"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "SMGT 6618",
+            "course_name": "Major Policy Issues in Intercollegiate AthleticsSMGT 6621 - Applied Collegiate Fitness and AthleticsPlus two of the following electives (6 credits)SMGT 6613 - Sports Facility ManagementSMGT 6620 - Professional Sport ManagementSMGT 6622 - Sport Facility Development and ConstructionSMGT 6623 - Sport Business Development and SustainabilitySMGT 6624 - Sports EconomicsSMGT 6625 - Sport Business AnalyticsSMGT 6626 - Strategic Event ManagementSMGT 6695 - Independent Study Ior any other College of Business electives as approved by your Sport Management advisor Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "SMGT 6600"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Sport Management",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": 12,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "ENGL 6659",
+            "course_name": "Writing and Speaking for ProfessionalsSMGT 6613 - Sports Facility ManagementSMGT 6618 - Major Policy Issues in Intercollegiate AthleticsSMGT 6620 - Professional Sport ManagementSMGT 6621 - Applied Collegiate Fitness and AthleticsSMGT 6622 - Sport Facility Development and ConstructionSMGT 6623 - Sport Business Development and SustainabilitySMGT 6624 - Sports EconomicsSMGT 6625 - Sport Business AnalyticsSMGT 6626 - Strategic Event ManagementSMGT 6690 - Research Project Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "SMGT 6600"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 Taxation",
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6601"
+            ]
+        }
+    },
+    {
+        "program_name": "\ufeff Feb 15, 2025 User Experience (UX) Design",
+        "stem_designation": true,
+        "stem_info_url": "https://www.newhaven.edu/admissions/stem-designated-programs.php.",
+        "total_credits": 30,
+        "required_credits": {
+            "core_courses": 30,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "capstone": {
+            "course_code": "DSGN 6610",
+            "course_name": "UX Design Capstone Catalog Search Choose Search Location Select an option Courses Programs Hierarchy Items Other Content Entire Catalog Whole Word/Phrase Advanced Search Catalog Home The University Graduate Programs Academic Policies Policies & Procedures for Ph.D. Degree Academic and Student Services College of Arts and Sciences Pompea College of Business Tagliatela College of Engineering Henry C. Lee College of Criminal Justice and Forensic Sciences School of Health Sciences University Interdisciplinary Collaborative Programs Pending Regulatory Approval Course Descriptions Academic Calendar",
+            "credits": 3,
+            "semester": "Last"
+        },
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "DSGN 6601"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "ACCT 6616"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 3,
+            "electives": 9,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CHEM 6710"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": 12,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CJST 6621"
+            ]
+        }
+    },
+    {
+        "program_name": null,
+        "stem_designation": false,
+        "stem_info_url": null,
+        "total_credits": null,
+        "required_credits": {
+            "core_courses": null,
+            "electives": null,
+            "capstone": null
+        },
+        "required_courses": [],
+        "electives": [],
+        "admission_requirements": {
+            "gre_required": false,
+            "minimum_degree": "Unknown",
+            "prerequisites": [
+                "CSCI 6622"
+            ]
+        }
+    }
+]
