@@ -70,10 +70,10 @@ cd university-rag-chatbot
 2)Install dependencies
 pip install -r requirements.txt
 
-3) Run FastAPI app
+3)Run FastAPI app
 uvicorn app.main:app --reload
 
-4) Trigger Airflow DAG
+4)Trigger Airflow DAG
 airflow dags trigger chatbot_update_pipeline
 
 # Deployment
